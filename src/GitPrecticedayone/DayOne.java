@@ -8,6 +8,8 @@ public class DayOne {
 		String m="Kingkha";
 		int t=10;
 		
+		System.out.println(m+ " get " +t+ " per hour");
+		
 	}
 
 }
