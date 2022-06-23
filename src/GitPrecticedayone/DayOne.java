@@ -7,7 +7,7 @@ public class DayOne {
 		
 		System.out.println("wahid");
 		
-		
+		System.out.println("wahtisthis");
 	}
 
 }
